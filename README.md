@@ -2,7 +2,7 @@
 Elrond Qrcode generator hosted on `qrcodegen.eu`.
 
 Usage example :
-http://qrcodegen.eu/?text=erd999gdf7dvxs9g65g7krrg6xq9degscqkwe2h0xmbfke48vtb5ubwpx8f594
+http://qrcodegen.eu/?text=erd17l3wrtqjf8jvjalulfmprqyutkryw892mnc97gnfyd4pyklc0uzqx5rrp7
 
 
 ## Run it
